@@ -1,0 +1,17 @@
+random_state: 0
+# loading mat file
+data_path: data/01_raw/burgers_shock.mat
+input_key: ["x", "t"]
+output_key: ["usol"]
+
+# training dataloader
+Nu: 200
+Nf: 1000
+batch_size: None
+
+# training
+input_var: ["x", "t"]
+output_var: ["u"]
+epochs: 8000
+
+clip: 75

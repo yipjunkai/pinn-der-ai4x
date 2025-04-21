@@ -39,5 +39,8 @@ loggers:
   burgers_kedro_experiment:
     level: INFO
 
+  kedro_umbrella:
+    level: INFO
+
 root:
   handlers: [rich, info_file_handler]
