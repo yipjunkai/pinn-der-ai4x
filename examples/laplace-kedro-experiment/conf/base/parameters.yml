@@ -1,0 +1,7 @@
+random_state: 0
+input_var: ["x", "y"]
+output_var: ["T"]
+
+epochs: 5001
+
+clip: 75
