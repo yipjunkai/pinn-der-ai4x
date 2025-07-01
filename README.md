@@ -140,7 +140,7 @@ If you use this code in your research, please cite our extended abstract:
 | Name             | Connect                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------- |
 | Yip Jun Kai      | [LinkedIn](https://www.linkedin.com/in/yipjk/), [GitHub](https://github.com/yipjunkai) |
-| Eduardo de Conto |                                                                                        |
+| Eduardo de Conto | [LinkedIn](https://www.linkedin.com/in/eduardoconto), [GitHub](https://github.com/eduardoconto) |
 | Arvind Easwaran  |                                                                                        |
 
 ---
